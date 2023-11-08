@@ -20,8 +20,7 @@ object PrintString extends App {
     )
   }
 
-
-  printNumber(100)
+  printNumber(1000)
 
 }
 
